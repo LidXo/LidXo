@@ -90,16 +90,6 @@ Approche :
 
 ---
 
-## 📦 Projets techniques (en cours & planifiés)
-
-
-### 🔹 Projets à venir
-- Pipeline de données Cloud (AWS / Azure)
-- Architecture Big Data batch & streaming
-- Projet IA appliqué à l’analyse de données
-- Système de monitoring & observabilité data
-
----
 
 ## 📈 Activité de développement
 
