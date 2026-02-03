@@ -44,61 +44,25 @@ Approche :
 ---
 
 ## 🛠️ Stack technique
-
-### 👨‍💻 Langages de programmation
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,go,scala,ruby,javascript,bash,sql" />
 </p>
-
----
-
-### 🌐 Développement Web & APIs
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
-
----
-
-### 🗄️ Bases de données
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,mariadb,redis" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+
 </p>
-
----
-
-### 📊 Data Engineering & Big Data
 <p>
-<img src="https://skillicons.dev/icons?i=hadoop,kafka" />
+<img src="https://skillicons.dev/icons?i=kafka" />
 <img src="https://cdn.simpleicons.org/apachehive/FDEE21" height="48"/>
 </p>
-
----
-
-### ☁️ Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git" />
 </p>
-
----
-
-### 🧰 Outils & environnements
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,github" />
-<img src="https://cdn.simpleicons.org/canvasjs/FF6F00" height="48"/>
 </p>
 
 ---
-
-
-## 📈 Activité de développement
-
-```text
-Orientation principale :
-- Data Engineering
-- Backend
-- Automatisation
-- Analyse de données
-
-Langages dominants :
-Python | SQL | JavaScript | Bash
