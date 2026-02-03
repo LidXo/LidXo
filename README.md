@@ -1,68 +1,42 @@
-<div align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1f2933,50:111827,100:020617&text=Lidao&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lidao+ABIYI!;" />
+</h1>
 
-### 🎓 Étudiant en Informatique | ⚙️ Data Engineer en formation | 🤖 IA & Big Data
+<h3 align="center">A passionate Data Engineer from Togo🇹🇬</h3>
 
-<p>
-<a href="https://github.com/USERNAME">
-  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&label=Followers">
-</a>
-<a href="https://github.com/USERNAME">
-  <img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&label=Stars">
-</a>
-</p>
+<br/>
 
+<div align="center"> 
+  <a href="mailto:lidxo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/lidao-a-401799328/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://lidxo.github.io/MyPortfolioLidXo/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,firebase,mongodb,c,java,mysql,postgresql" /><br>
+</div>
 
-## 🎯 Profil professionnel
+<br/>
+<hr/>
 
-Étudiant en **informatique**, avec une orientation explicite vers le **Data Engineering**, les **architectures Big Data** et l’**Intelligence Artificielle**.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-Objectif :  
-👉 devenir un **Data Engineer confirmé**, capable de concevoir, déployer et maintenir des **pipelines de données robustes**, **scalables** et **orientés production**, dans des environnements **Cloud** et **distribués**.
-
-Approche :
-- rigoureuse
-- orientée systèmes
-- basée sur les standards industriels
-
----
-
-## 🧠 Domaines de spécialisation
-
-- Data Engineering & Big Data
-- Cloud Computing (AWS, Azure, GCP)
-- Pipelines ETL / ELT
-- Streaming de données
-- Bases de données relationnelles & NoSQL
-- Automatisation & scripting
-- Fondations IA & Machine Learning
-
----
-
-## 🛠️ Stack technique
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,go,scala,ruby,javascript,bash,sql" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=kafka" />
-<img src="https://cdn.simpleicons.org/apachehive/FDEE21" height="48"/>
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
-
----
