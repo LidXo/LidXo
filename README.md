@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lidao+ABIYI!;" />
 </h1>
 
-<h3 align="center">A passionate Data Engineer from Togo🇹🇬</h3>
+<h3 align="center">Future Data Engineer | Strong Focus on Data Systems | Togo 🇹🇬</h3>
 
 <br/>
 
@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,firebase,mongodb,c,java,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,firebase,mongodb,c,mysql,postgresql" /><br>
 </div>
 
 <br/>
