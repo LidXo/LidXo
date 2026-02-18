@@ -1,31 +1,62 @@
-# 👨‍💻 Data Engineer Profile 
+# 👨‍💻 ABIYI Lidao  
+### 🎯 Data Engineer | IA & Big Data (En formation)
 
-## 💡 Overview  
-I am a passionate Data Engineer with expertise in data architecture, database management, and data processing. I thrive in environments that allow me to harness the power of data to solve complex problems and drive business insights. 
+![Status](https://img.shields.io/badge/Status-En%20apprentissage-blue)
+![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-orange)
+![Level](https://img.shields.io/badge/Level-Student%20(2nd%20Year)-green)
 
-## 🛠️ Skills  
-- **Programming Languages:**  
-  - Python 🐍  
-  - SQL 📊  
+---
 
-- **Big Data Tools:**  
-  - Apache Spark 🔥  
-  - Apache Airflow 🌪️  
+## 📌 Profil
 
-- **Cloud Platforms:**  
-  - Amazon Web Services (AWS) ☁️  
-  - Google Cloud Platform (GCP) 🌐  
-  - Microsoft Azure 🌈  
+🎓 **Étudiant en Informatique – 2ᵉ année**  
+📚 **Spécialité : Intelligence Artificielle & Big Data**  
+🎯 **Objectif clair : devenir un Data Engineer de haut niveau**  
 
-- **Databases:**  
-  - MySQL 🗄️  
-  - MongoDB 🍃  
-  - Snowflake ❄️  
+Je suis actuellement en **phase d’apprentissage intensif** des technologies Data, Big Data et Cloud.  
+Mon approche est **ingénierie-first** : compréhension des fondamentaux, mise en pratique, projets concrets, montée en compétence progressive.
 
-## 📖 Learning Journey  
-I have completed a specialization in Data Engineering and AI-Big Data, where I gained hands-on experience with various tools and technologies. This journey has equipped me with the skills to design robust data pipelines, optimize data workflows, and leverage cloud technologies for efficient data storage and processing.  
+---
 
----  
+## 🧠 Centres d’intérêt
 
-### 🌟 Let's Connect!  
-Feel free to reach out for collaboration or networking opportunities!
+- Data Engineering
+- Architectures Big Data
+- Pipelines de données robustes
+- Traitement batch & streaming
+- Cloud & systèmes distribués
+- Intelligence Artificielle appliquée aux données
+
+---
+
+## 🧩 Soft Skills Techniques
+
+- Rigueur technique
+- Curiosité intellectuelle
+- Capacité d’apprentissage autonome
+- Esprit d’analyse
+- Résolution de problèmes complexes
+- Sens de l’architecture
+- Compréhension des enjeux business
+- Communication technique claire
+
+
+---
+
+## 📍 Statut actuel
+
+🟢 **En période d’apprentissage active**  
+📈 Montée en compétence continue  
+📚 Formation académique + auto-formation technique  
+🛠️ Orientation projets concrets & pratiques professionnelles
+
+---
+
+## 📬 Contact
+
+📧 *À compléter*  
+💼 LinkedIn : *À compléter*  
+
+---
+
+> **Ce profil évoluera régulièrement avec l’acquisition de nouvelles compétences et la réalisation de projets concrets.**
