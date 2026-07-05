@@ -3,13 +3,13 @@
 
 ![Status](https://img.shields.io/badge/Status-En%20apprentissage-blue)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-orange)
-![Level](https://img.shields.io/badge/Level-Student%20(2nd%20Year)-green)
+![Level](https://img.shields.io/badge/Level-Student%20(3rd%20Year)-green)
 
 ---
 
 ## 📌 Profil
 
-🎓 **Étudiant en Informatique – 2ᵉ année**  
+🎓 **Étudiant en Informatique – 3ᵉ année**  
 📚 **Spécialité : Intelligence Artificielle & Big Data**  
 🎯 **Objectif clair : devenir un Data Engineer de haut niveau**  
 
